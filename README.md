@@ -10,9 +10,9 @@ Every user can install on his/her account whatever he/she consideres necessary (
 The most common packages and utilities are installed (shared) on the computer for all users (we are open for suggestions).
 
 ## Packages
-For documentation about the installed packages and its usage go **[here]**(./Packages)
+For documentation about the installed packages and its usage go **[here](./Packages)**
 
 ## Network
-See detailed infomation about the **[network information]**(./Network)
+See detailed infomation about the **[network information](./Network)**
 
 For any question or suggestion, please contact us: inigo@unizar.es or acm@unizar.es
