@@ -1,6 +1,6 @@
 # MrRobot
 
-This github is aimed to collect all the necessary information for using the MrRobot computer of the RoPeRT lab (Unizar).
+This github is aimed to collect all the necessary information for using the MrRobot computer of the [RoPeRT group](http://robots.unizar.es/).
 
 Every person must have an account without root privileges. The root privileges are only available on the _mrrobot_ user. 
 For opening an account please ask the administrator (inigo@unizar.es or acm@unizar.es)
